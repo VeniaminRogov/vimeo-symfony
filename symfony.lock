@@ -500,6 +500,9 @@
     "twig/twig": {
         "version": "v3.3.8"
     },
+    "vimeo/vimeo-api": {
+        "version": "1.2.6"
+    },
     "webmozart/assert": {
         "version": "1.10.0"
     }
